@@ -1,4 +1,4 @@
-# COPYRIGHT By IVAAN (github.com/leaperstuff)
+# COPYRIGHT By IVAAN (github.com/ivaansrivastava)
 # MIT License
 # FREE TO USE
 
